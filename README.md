@@ -56,4 +56,12 @@ This lab focuses on setting up Active Directory by configuring Server Manager an
 <h2>Connecting PC to a Domain</h2>
 Connecting a PC to an Active Directory (AD) domain allows centralized management, security, and authentication. It enables administrators to enforce policies, manage user access, and streamline IT operations. This setup enhances security and simplifies user and device management within an organization.
 
+<h3>Steps</h3>
+<br>1. Search for the cmd (command line) --> run "ipconfig /all" to gather the IP4 information and defualt gateway information</br>
+<br>2. Search for the Control Plane --> click "View Network Status and Task" --> click "change dapter" --> right click "ethernet" go to properties (insert your info from the cmd line)</br>
+<br><img src="https://imgur.com/XdkRf3F.png"  height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</br>
+<img src="https://imgur.com/7kuTx41.png"  height="60%" width="60%" alt="Disk Sanitization Steps"/>
+
+
 
