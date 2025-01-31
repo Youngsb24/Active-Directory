@@ -25,3 +25,13 @@ This lab focuses on setting up Active Directory by configuring Server Manager an
 </br>
 
 <h2>Configuring Server Manager</h2>
+<br>Server Manager is going to open by default, as you log in</br>
+<br>1. Click on "tool", then select "Add roles and Features</br>
+<br>2. Installation type select "Role-based or feature-based installation. then next</br>
+<br>3. Server Roles , select " AD Services, Remote Access, DNS server" , then next</br>
+<br>4. Features ,ensure "group Policy management" is selected. then next</br>
+<br>5. Keep clicking Next till you are able to just press install</br>
+<br><img src="https://imgur.com/BDKWKz9.png"  height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</br>
+<br><img src="https://imgur.com/SAdAVOG.png"  height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</br>
