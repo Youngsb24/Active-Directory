@@ -58,7 +58,8 @@ Connecting a PC to an Active Directory (AD) domain allows centralized management
 
 <h3>Steps for Domain Controller Server</h3>
 <br>1. Search for the cmd (command line) --> run "ipconfig /all" to gather the IP4 information and defualt gateway information</br>
-<br>2. Search for the Control Plane --> click "View Network Status and Task" --> click "change dapter" --> right click "ethernet" go to properties (insert your info from the cmd line)</br>
+<br>2. Search for the Control Plane --> click "View Network Status and Task" --> click "change dapter" --> right click "ethernet" go to "properties" (insert your info from the cmd line)</br>
+<br>Configure the server to have a static IP address, reason is becuase we aren't using router or switch for the DHCP. Also allows our client Server to easily connect to the Domain controller.</br>
 <br><img src="https://imgur.com/XdkRf3F.png"  height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </br>
 <img src="https://imgur.com/7kuTx41.png"  height="60%" width="60%" alt="Disk Sanitization Steps"/>
