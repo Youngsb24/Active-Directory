@@ -31,7 +31,13 @@ This lab focuses on setting up Active Directory by configuring Server Manager an
 <br>3. Server Roles , select " AD Services, Remote Access, DNS server" , then next</br>
 <br>4. Features ,ensure "group Policy management" is selected. then next</br>
 <br>5. Keep clicking Next till you are able to just press install</br>
+<br>6. Once everything is installed we should click on "Promote this server to a domain controller"</br>
+<br>7. then click "Add a new forest", my domain name is "Youngsb24.local" . its imparitive to add ".com" or ".local" at the end</b>
+<br>. After you install after passing the prerequisites. You will forced to reboot the server so it can install Active directory tool. Then re log in.</br>
 <br><img src="https://imgur.com/BDKWKz9.png"  height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </br>
 <br><img src="https://imgur.com/SAdAVOG.png"  height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</br>
+<br>Verify if the Active Directory tool has been installed properly. Click the dropped down for "Windows Administrative Tools" to confirm</br>
+<br><img src="https://imgur.com/FbKferg.png"  height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </br>
