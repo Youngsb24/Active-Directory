@@ -13,6 +13,7 @@ This lab focuses on setting up Active Directory by configuring Server Manager an
 <br>4. Name Your VM whatever you like. Select the region that best fits your geolocation. Create Username and Password that you won't forget. Name Resource group (AD-windows-Vm)  select (windows 22) </br>
 <br>5. Name Virtual network (VNet) ( AD-Vnet) </br>
 <br>6. click "review + create" </br> 
+<br>7. Create new VM for the client server, using Windows 10 and different naming conventions</br>
 <br><img src="https://imgur.com/vpOPVca.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </br>
 <br><img src="https://imgur.com/VE0HgIU.png height="40%" width="40%" alt="Disk Sanitization Steps"/>
@@ -54,3 +55,5 @@ This lab focuses on setting up Active Directory by configuring Server Manager an
 
 <h2>Connecting PC to a Domain</h2>
 Connecting a PC to an Active Directory (AD) domain allows centralized management, security, and authentication. It enables administrators to enforce policies, manage user access, and streamline IT operations. This setup enhances security and simplifies user and device management within an organization.
+
+
