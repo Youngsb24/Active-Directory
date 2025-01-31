@@ -38,6 +38,15 @@ This lab focuses on setting up Active Directory by configuring Server Manager an
 </br>
 <br><img src="https://imgur.com/SAdAVOG.png"  height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </br>
+<br><img src="https://imgur.com/1UKoBYX.png"  height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</br>
+<br><img src="https://imgur.com/dgg45bw.png"  height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</br>
+<br><img src="https://imgur.com/hixRtzA.png"  height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</br>
 <br>Verify if the Active Directory tool has been installed properly. Click the dropped down for "Windows Administrative Tools" to confirm</br>
-<br><img src="https://imgur.com/FbKferg.png"  height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br><img src="https://imgur.com/JOPPLkF.png"  height="20%" width="30%" alt="Disk Sanitization Steps"/>
+</br>
+<br>Select "Active Directory Users and Computers" </br>
+<br><img src="https://imgur.com/D80IktI.png"  height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </br>
