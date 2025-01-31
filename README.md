@@ -50,3 +50,7 @@ This lab focuses on setting up Active Directory by configuring Server Manager an
 <br>Select "Active Directory Users and Computers" </br>
 <br><img src="https://imgur.com/D80IktI.png"  height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </br>
+
+
+<h2>Connecting PC to a Domain</h2>
+Connecting a PC to an Active Directory (AD) domain allows centralized management, security, and authentication. It enables administrators to enforce policies, manage user access, and streamline IT operations. This setup enhances security and simplifies user and device management within an organization.
