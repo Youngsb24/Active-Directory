@@ -78,6 +78,22 @@ Connecting a PC to an Active Directory (AD) domain allows centralized management
 </br>
 <br><img src="https://imgur.com/4ojrQ9X.png"  height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </br>
+<h3>Steps</h3>
+<br>Lastly configure Client server IP address to be static, and conncecting the client PC to the domain controller</br>
+<br>1. Search for the cmd (command line) --> run "ipconfig /all" to gather the IP4 information and defualt gateway information</br>
+<br>2. Search for the Control Plane --> click "View Network Status and Task" --> click "change dapter" --> right click "ethernet" go to "properties" (insert your info from the cmd line)</br>
+<br>3. Add the DC (domain controller) IP address in the "preferred DNS Server" with the gateway IP address to follow.</br>
+<br><img src=https://imgur.com/CZ3TUrq.png"  height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</br>
+<br><img src="https://imgur.com/kBIhbyU.png"  height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</br>
+<br>4. Go to "file explorer" --> right click "This PC" --> click "Properties" --> click "Advance System Settings" --> click "Computer Name" --> click "change" --> click "Member of" add the Domain name you created. follow the rest of the prompt. Lastly go back to Domain Controller and Open " AD users and Computers" check the computer OU (Organizational Unit) to confirm the PC has been successfully connected (last image)</br>
+<br><img src="https://imgur.com/twiCLX7.png"  height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</br>
+<br><img src="https://imgur.com/K5Nc8iB.png"  height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</br>
+<br><img src="https://imgur.com/5PZMkgB.png"  height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</br>
 
 
 
