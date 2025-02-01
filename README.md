@@ -78,7 +78,7 @@ Connecting a PC to an Active Directory (AD) domain allows centralized management
 </br>
 <br><img src="https://imgur.com/4ojrQ9X.png"  height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </br>
-<h3>Steps</h3>
+<h3>Extended Steps</h3>
 <br>Lastly configure Client server IP address to be static, and conncecting the client PC to the domain controller</br>
 <br>1. Search for the cmd (command line) --> run "ipconfig /all" to gather the IP4 information and defualt gateway information</br>
 <br>2. Search for the Control Plane --> click "View Network Status and Task" --> click "change dapter" --> right click "ethernet" go to "properties" (insert your info from the cmd line)</br>
